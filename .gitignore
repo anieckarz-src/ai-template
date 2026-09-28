@@ -1,0 +1,5 @@
+# Local-only: upstream clone and working copies
+PlatformPlatform/
+/.claude/
+/CLAUDE.md
+.workspace/
