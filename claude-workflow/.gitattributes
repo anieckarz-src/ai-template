@@ -1,0 +1,3 @@
+# Hook scripts must keep LF line endings: with CRLF, bash fails and the
+# destructive-command guard silently stops blocking anything.
+.claude/hooks/**/*.sh text eol=lf
